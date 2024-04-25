@@ -118,6 +118,7 @@ Publish the website in the given URL.
 </html>
 ```
 ## OUTPUT:
+![Calculator Output-2](https://github.com/ThangaDeepika/Calc/assets/125663099/5b69a9af-84d0-4307-b3bf-bfd581a5dbae)
 ![Calculator Output](https://github.com/ThangaDeepika/Calc/assets/125663099/aa91132a-e679-4ce7-a6e7-58a29c504355)
 ## RESULT:
 The program for designing a standard calculator using HTML and CSS is executed successfully.
